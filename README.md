@@ -1,2 +1,2 @@
-# vagrant_linux_gui
+# vagrant-linux-gui
 GUI Linux on vagrant
